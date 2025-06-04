@@ -1,4 +1,4 @@
-# Projeto: {Site Ma Douce Amertume} com Next.js + NextUI
+# Projeto: Site Ma Douce Amertume com Next.js + NextUI
 
 ## Descrição
 Protótipo de website desenvolvido para meu jogo de terror psicológico Ma Douce Amertume, incorporando elementos essenciais de interação com a comunidade. Foi desenvolvido com ênfase no front-end, servindo como base para o site definitivo do projeto, porem inclui todos os requisitos solicitados, como por exemplo diversas implementações de mock, tais como:
@@ -28,7 +28,7 @@ npm run dev
 
 ## Links
 - [Deploy na Vercel](https://...)
-- [Repositório GitHub](https://...)
+- [Repositório GitHub]([https://github.com/Subcontious/MaDouceAmertumeWebsite)])
 
 ## Licença
 
