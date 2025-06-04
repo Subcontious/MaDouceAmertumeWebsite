@@ -28,7 +28,7 @@ npm run dev
 
 ## Links
 - [Deploy na Vercel](https://...)
-- [Repositório GitHub]([https://github.com/Subcontious/MaDouceAmertumeWebsite)])
+- [Repositório GitHub](https://github.com/Subcontious/MaDouceAmertumeWebsite))
 
 ## Licença
 
